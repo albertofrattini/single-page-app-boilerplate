@@ -9,3 +9,7 @@ Fork this project and build on top of it.
 #### Next.js
 
 #### Tailwind CSS
+
+## TODO:
+- Add Typescript support
+- Add ESLint support
